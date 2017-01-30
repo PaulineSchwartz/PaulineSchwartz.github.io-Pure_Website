@@ -1,0 +1,43 @@
+#banner {
+  background-color: white;
+  padding: 10px;
+  margin-top: 50px;
+  background-size: cover;
+  height: auto;
+
+  h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: $brandon-light;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  p {
+    font-size: 25px;
+    font-weight: 100;
+  }
+}
+
+#HomeRestaurant {
+  background-image: image-url('restaurant.jpg');
+  background-size: cover;
+  height: 470px;
+  padding-left: 10px;
+}
+
+#HomeAperitif {
+  background-image: image-url('drink_aperitif.jpg');
+  background-size: cover;
+  height: 470px;
+  padding-left: 10px;
+}
+
+#HomeClub {
+  background-image: image-url('club.jpg');
+  background-size: cover;
+  height: 470px;
+  padding-left: 50px;
+}
