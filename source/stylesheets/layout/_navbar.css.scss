@@ -12,8 +12,8 @@ h2 {
 /* -------------------------------------
  * Box model
  * ------------------------------------- */
-$navbar-height: 40px;
-$navbar-vertical-padding: 5px;
+$navbar-height: 80px;
+$navbar-vertical-padding: 10px;
 $navbar-horizontal-padding: 50px;
 $navbar-border-bottom-width: 0;
 $navbar-border-bottom-color: grey;
@@ -24,7 +24,7 @@ $navbar-border-bottom-color: grey;
  * ------------------------------------- */
 $navbar-btn-height: 40px;
 $navbar-btn-bg: $red;
-$navbar-btn-color: white;
+$navbar-btn-color: grey;
 $navbar-btn-horizontal-padding: 10px;
 $navbar-btn-radius: 2px;
 
